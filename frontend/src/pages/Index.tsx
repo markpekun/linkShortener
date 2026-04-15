@@ -1,5 +1,6 @@
 import { useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { Github } from "lucide-react";
 import { ShortenInput } from "@/components/ShortenInput";
 import { ResultCard } from "@/components/ResultCard";
 import { ParticleText } from "@/components/ParticleText";
@@ -29,6 +30,15 @@ const Index = () => {
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-start pt-[26vh] px-4 relative overflow-hidden">
+      {/* GitHub link */}
+      <a
+        href="https://github.com/markpekun"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="fixed top-5 right-5 z-50 text-muted-foreground hover:text-foreground transition-colors duration-200"
+      >
+        <Github size={20} strokeWidth={1.5} />
+      </a>
       {/* Subtle ambient gradient */}
       <div
         className="fixed inset-0 pointer-events-none opacity-40"
