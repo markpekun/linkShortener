@@ -17,7 +17,7 @@
 
     
 
-## 🎥 Demo (Back OFF)
+## 🎥 Demo (Backend OFF)
 <p align="center">
   <a href="https://link-shine.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge">
@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="pictures/gif.gif" width="600"/>
-  <img width="600" height="490" alt="18ч40м14с" src="https://github.com/user-attachments/assets/4a290a71-a82a-4108-9e58-a8a8598c0a47" />
+  <img width="600" height="490" alt="work" src="https://github.com/user-attachments/assets/1cb29cbb-951c-45cc-a470-d09cc81f65af" />
 
 </p>
 
