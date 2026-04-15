@@ -12,12 +12,12 @@
   <a href="#"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge"></a>
 </p>
 
----
+
+
+
     
 
 ## 🎥 Demo
-
-
 <p align="center">
   <a href="https://link-shine.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge">
@@ -29,7 +29,7 @@
 </p>
 
 
----
+
 
 ## ⚡ Features
 
@@ -39,7 +39,6 @@
 - 🎨 Minimal UI (React + Tailwind)
 - 🚀 Ready for production scaling
 
----
 
 ## 🛠 Tech Stack
 
@@ -56,7 +55,6 @@
 - TypeScript  
 - TailwindCSS  
 
----
 
 ## 📁 Project Structure
 
@@ -77,7 +75,7 @@
 ├── main.py
 └── requirements.txt
 ```
----
+
 ## ⚡ Quick Start
 
 ### 1. Backend
@@ -107,7 +105,7 @@ npm install
 npm run dev
 ```
 
----
+
 ##  🔌 API
 
 ### Create Short Link
@@ -136,11 +134,4 @@ POST /shorten
 ```http request
 GET /{code}
 ```
----
 
-
-## 🚀 Production Notes
-- Run multiple instances behind a load balancer
-- Keep PostgreSQL as the source of truth
-- Apply migrations in CI/CD (alembic upgrade head)
-- Use connection pooling for high load
