@@ -30,6 +30,7 @@ app.add_middleware(
         "http://localhost:8080",
         "http://127.0.0.1:8080",
         "http://192.168.56.1:8080",
+        "https://link-shine.vercel.app"
     ],
     allow_origin_regex=r"^https?://(localhost|127\.0\.0\.1|192\.168\.\d{1,3}\.\d{1,3})(:\d+)?$",
     allow_credentials=True,
