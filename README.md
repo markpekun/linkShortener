@@ -17,7 +17,7 @@
 
     
 
-## 🎥 Demo (Backend OFF)
+## 🎥 Demo
 <p align="center">
   <a href="https://link-shine.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge">
